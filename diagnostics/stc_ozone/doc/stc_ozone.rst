@@ -51,13 +51,13 @@ tend to have too late of final warming, or equivalently, too strong of late spri
 polar vortex winds (Wilcox et al., 2013). The POD outputs some of these metrics 
 so that multi-model comparison can be performed.
 
-Note that many CMIP6 models do not have interactive stratosheric chemistry, and 
+Note that many CMIP6 models do not have interactive stratospheric chemistry, and 
 instead use prescribed ozone provided by Checa-Garcia et al. (2018a,b), except for
 three models that instead use prescribed ozone from simulations performed by the 
 CESM-WACCM model (CESM2, CESM2-FV2, NorESM2). Details of ozone in CMIP6 models 
 can be found in Keeble et al. (2021). In models with prescribed ozone, the ozone
 forcing will still influence the circulation, but the circulation changes cannot 
-feedback onto ozone, which may influence the degree to which they capture the full 
+feedback onto ozone, which may influence the degree to which models capture the full 
 response in both hemispheres (Haase et al., 2020, Friedel et al. 2022).
 
 
@@ -152,7 +152,7 @@ References
 
 .. _ref-Friedel:
 
-    Friedel, M., Chiodo, G., Stenke, A. et al., 2022: Springtime arctic ozone depletion forces northern hemisphere climate 
+    Friedel, M., Chiodo, G., Stenke, A. et al., 2022: Springtime Arctic ozone depletion forces Northern hemisphere climate 
     anomalies. Nat. Geosci. 15, 541–547, https://doi.org/10.1038/s41561-022-00974-7
     
 .. _ref-Wilcox:
